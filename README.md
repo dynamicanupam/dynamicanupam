@@ -1,11 +1,11 @@
 
 ### Hi there 👋,
 
-My name is Anupam Maiti, I'm a Full Stack Developer cum aspiring architect with diverse experience in Cloud Architecture, Application Modernization, PaaS Solutioning, Cloud Migration and Cloud Native Engineering, and .NET Technologies. 
+My name is **Anupam Maiti**, I'm a full stack developer cum aspiring architect with diverse experience in Cloud Architecture, Application Modernization, PaaS Solutioning, Cloud Migration and Cloud Native Engineering, and .NET Technologies. 
 
 ## My core competencies ⚙️
 
-Tools and technologies that I have worked with and am interested in
+Tools and technologies that I have worked with and am interested in :
 <table>
   <tr>
     <td align="center">
