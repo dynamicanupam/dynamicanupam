@@ -5,12 +5,13 @@
 - ✨ I'm a Full Stack Developer
 - ✨ Hobbies: Travel, Table Tennis
 - ✨ Current Company: EY
-- ✨ Competencies: JavaScript, Angular 12/13/14/15, C#, .NET Core, .NET 5.0, TypeScript, Bootstrap, jQuery, Vue.js, Microso vbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbft Azure, Azure DevOps, Docker, Kubernetes, MongoDB, Node.js, HTML, CSS, UNIX, SQL
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-#### 📜 My Recently Published Article/Blogsbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb`bbbbbbbbbb`bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+- ✨ Competencies: C#, .NET Core, .NET 5.0, Azure, Azure DevOps, Docker, Kubernetes, Terraform, Angular 12/13/14/15
+
+#### 📜 My Recently Published Article/Blogs
 - [Cloud FinOps - What it is and Why You Need it?](https://www.c-sharpcorner.com/article/cloud-finops-what-it-is-and-why-you-need-it/) - April 27, 2023
 - [The 6 R’s Of Cloud Migration Strategy](https://www.c-sharpcorner.com/article/the-6-rs-of-cloud-migration-strategy/) - May 02, 2023
+- [zure Network Design Services And Best Practices](https://www.c-sharpcorner.com/article/azure-network-design-services-and-best-practices/) - March 01, 2023
+- [Pristine Vs Dirty, Touched Vs Untouched, Valid Vs Invalid In Angular](https://www.c-sharpcorner.com/article/pristine-vs-dirty-touched-vs-untouched-valid-vs-invalid-in-angular/) - Feb 20, 2023
 
 #### 📫 How to reach me
 
