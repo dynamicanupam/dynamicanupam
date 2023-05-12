@@ -10,7 +10,7 @@ Tools and technologies that I have worked with and am interested in
 <table>
   <tr>
     <td align="center">
-        <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="icon" width="50" height="50" />
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
       <br>C#
     </td>
     <td align="center">
@@ -59,7 +59,7 @@ Tools and technologies that I have worked with and am interested in
 - [The 6 R’s Of Cloud Migration Strategy](https://www.c-sharpcorner.com/article/the-6-rs-of-cloud-migration-strategy/)
 - [zure Network Design Services And Best Practices](https://www.c-sharpcorner.com/article/azure-network-design-services-and-best-practices/)
 - [Pristine Vs Dirty, Touched Vs Untouched, Valid Vs Invalid In Angular](https://www.c-sharpcorner.com/article/pristine-vs-dirty-touched-vs-untouched-valid-vs-invalid-in-angular/)
-- 
+
 ## Github stats 📊
 
 <details>
@@ -80,5 +80,3 @@ Tools and technologies that I have worked with and am interested in
 
 - **Gmail**: mailtoanupammaiti@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/anupam-maiti/
-
-
