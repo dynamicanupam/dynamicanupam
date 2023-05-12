@@ -54,7 +54,7 @@ Tools and technologies that I have worked with and am interested in
   </tr>
 </table>
 
-## 📜 My recently published articles
+## My recently published articles 📜 
 - [Cloud FinOps - What it is and Why You Need it?](https://www.c-sharpcorner.com/article/cloud-finops-what-it-is-and-why-you-need-it/)
 - [The 6 R’s Of Cloud Migration Strategy](https://www.c-sharpcorner.com/article/the-6-rs-of-cloud-migration-strategy/)
 - [Azure Network Design Services And Best Practices](https://www.c-sharpcorner.com/article/azure-network-design-services-and-best-practices/)
@@ -76,7 +76,7 @@ Tools and technologies that I have worked with and am interested in
   <img src="https://komarev.com/ghpvc/?username=dynamicanupam&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
-## 📫 How to reach me
+## How to reach me 📫
 
 - **Gmail**: mailtoanupammaiti@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/anupam-maiti/
