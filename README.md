@@ -1,7 +1,7 @@
 
 ### Hi there 👋,
 
-My name is **Anupam Maiti**, I'm a full stack developer cum aspiring architect with diverse experience in Cloud Architecture, Application Modernization, PaaS Solutioning, Cloud Migration and Cloud Native Engineering, and .NET Technologies. 
+My name is **Anupam Maiti** and I'm a dedicated technology professional with a passion for continual growth and learning. My expertise lies in successfully executing challenging Cloud Assessment & Migration, Cloud Native Engineering, Cloud Architecture, Legacy Applications Modernization, PaaS Solutioning, and .NET Full-Stack Technologies projects, primarily within the Microsoft ecosystem. I hold certifications in Azure, AWS, and GCP, and I am deeply enthusiastic about AI. Please take a look at [my portfolio](https://dynamicanupam.github.io) showcasing my work in Machine Learning & AI.
 
 ## My core competencies ⚙️
 
@@ -53,12 +53,12 @@ Tools and technologies that I have worked with and am interested in :
   </tr>
 </table>
 
+
 ## My recently published articles 📜 
+- [Understanding Naive Bayes Classifiers In Machine Learning](https://www.c-sharpcorner.com/article/understanding-naive-bayes-classifiers-in-machine-learning/)
+- [Weight of Evidence (WOE) And Information Value (IV)](https://www.c-sharpcorner.com/article/weight-of-evidence-woe-and-information-value-iv/)
 - [Cloud FinOps - What it is and Why You Need it?](https://www.c-sharpcorner.com/article/cloud-finops-what-it-is-and-why-you-need-it/)
 - [The 6 R’s Of Cloud Migration Strategy](https://www.c-sharpcorner.com/article/the-6-rs-of-cloud-migration-strategy/)
-- [Azure Network Design Services And Best Practices](https://www.c-sharpcorner.com/article/azure-network-design-services-and-best-practices/)
-- [Pristine Vs Dirty, Touched Vs Untouched, Valid Vs Invalid In Angular](https://www.c-sharpcorner.com/article/pristine-vs-dirty-touched-vs-untouched-valid-vs-invalid-in-angular/)
-
 ## Github stats 📊
 
 <details>
