@@ -55,6 +55,7 @@ Tools and technologies that I have worked with and am interested in :
 
 
 ## My recently published articles 📜 
+- [Azure Hub and Spoke Architecture](https://www.c-sharpcorner.com/article/azure-hub-and-spoke-architecture/)
 - [Understanding Naive Bayes Classifiers In Machine Learning](https://www.c-sharpcorner.com/article/understanding-naive-bayes-classifiers-in-machine-learning/)
 - [Weight of Evidence (WOE) And Information Value (IV)](https://www.c-sharpcorner.com/article/weight-of-evidence-woe-and-information-value-iv/)
 - [Cloud FinOps - What it is and Why You Need it?](https://www.c-sharpcorner.com/article/cloud-finops-what-it-is-and-why-you-need-it/)
@@ -77,5 +78,4 @@ Tools and technologies that I have worked with and am interested in :
 
 ## How to reach me 📫
 
-- **Gmail**: mailtoanupammaiti@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/anupam-maiti/
